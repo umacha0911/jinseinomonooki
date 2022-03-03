@@ -14,29 +14,33 @@ body {
   
   .header-logo {
     float: left;
-    font-size: 64px;
+    font-size: 32px;
     padding: 20px 40px;
   }
   
   .header-list li {
     float: left;
     padding: 33px 20px;
+    font-size:18px;
   }
   
   .main {
-    padding: 100px 80px;
+    padding-top:20px;
+    padding-left:80px;
+    padding-right:80px;
+    padding-bottom:100px;
   }
   
   .copy-container h1 {
-    font-size: 140px;
+    font-size: 20px;
   }
   
   .copy-container h2 {
-    font-size: 60px;
+    font-size: 120px;
   }
   
   .copy-container span {
-    color: #ff4a4a;
+    color: #778899;
   }
   
   .contents {
@@ -49,6 +53,10 @@ body {
     font-size: 28px;
     padding-bottom: 15px;
     margin-bottom: 50px;
+  }
+
+  h4 {
+    font-size:28px;
   }
   
   .contents-item {
