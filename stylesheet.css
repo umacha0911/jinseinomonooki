@@ -14,14 +14,14 @@ body {
   
   .header-logo {
     float: left;
-    font-size: 32px;
+    font-size: 40px;
     padding: 20px 40px;
   }
   
   .header-list li {
     float: left;
     padding: 33px 20px;
-    font-size:18px;
+    font-size:24px;
   }
   
   .main {
@@ -65,10 +65,10 @@ body {
   }
   
   .contents-item p {
-    font-size: 24px;
+    font-size: 32px;
     margin-top: 30px;
   }
-  
+ 
   .contact-form {
     padding-top: 100px;
   }
@@ -90,15 +90,20 @@ body {
   .footer {
     background-color: #2f5167;
     color: #fff;
-    height: 120px;
+    height: 250px;
     padding: 40px;
   }
   
   .footer-logo {
-    float: left;
-    font-size: 24px;
+    /*float: left;*/
+    font-size: 36px;
+  }
+
+  .footer p {
+    font-size:24px;
   }
   
+/*
   .footer-list {
     float: right;
   }
@@ -106,4 +111,5 @@ body {
   .footer-list li {
     padding-bottom: 20px;
   }
+*/
   
